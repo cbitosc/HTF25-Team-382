@@ -1,25 +1,54 @@
-﻿# HTF25-Team-382
+﻿# HTF25-Team-382 — Aura Lab Scribe
+ <img width="1745" height="843" alt="image" src="https://github.com/user-attachments/assets/74916c96-d765-4edb-9d2e-b0f67a0491b4" />
+
+
+Deployed Link:
+
+https://htf-25-team-382.vercel.app/
+
+A Vite + React + TypeScript app styled with Tailwind and shadcn/ui, integrating Supabase for auth and serverless functions.
+
+## Tech stack
+
+- Vite
+- TypeScript
+- React
+- shadcn/ui (Radix primitives)
+- Tailwind CSS
+- Supabase (client + edge functions)
+
+## Local development
+
+Prerequisites: Node.js 18+ (or Bun), npm (or bun/pnpm).
+
+```sh
+npm i
+npm run dev
+```
+
+Optionally, start any Supabase local services if your features depend on them.
+
+---
 
 ## GitHub submission guide
+[Automated-Laboratory-Records-AI-Powered-Efficiency-for-the-Modern-Lab.pdf](https://github.com/user-attachments/files/23147880/Automated-Laboratory-Records-AI-Powered-Efficiency-for-the-Modern-Lab.pdf)
 
-In this Readme, you will find a guide on how to fork this Repository, add files to it, and make a pull request to contribute your changes.
+
+In this Readme, you will find a guide on how to fork this repository, add files to it, and make a pull request to contribute your changes.
 
 <details open>
 <summary><h3>1. Login to your GitHub Account</h3></summary>
 <br>
 <p>Go to <a href="https://github.com">github.com</a> to log in.</p>
 <ul>
-   <li>Open the <a href="https://github.com/cbitosc/HTF25-Team-382">current repo</a> in a new tab.</li>
-   <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
+  <li>Open the <a href="https://github.com/cbitosc/HTF25-Team-382">current repo</a> in a new tab.</li>
+  <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
 </ul>
 </details>
 
 <details open>
 <summary><h3>2. Fork the Repository</h3></summary>
 <br>
-<p align="center">
-  <img src="fork.jpeg" alt="Fork the Repository" height="300">
-</p>
 <ul>
  <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b>.</li>
  <li>Enter the <b>Repository Name</b> as <b>HTF25-Team-382</b>.</li>
